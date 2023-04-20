@@ -1,3 +1,5 @@
+https://ithelp.ithome.com.tw/m/articles/10265253
+
 https://www.kaggle.com/code/adinishad/kmeans-clustering-from-scratch
 
 
